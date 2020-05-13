@@ -1,4 +1,4 @@
-# VoiceAssistants
+# ToDoList
 The voice assistants application uses following technology stack: 
 
 HTML
