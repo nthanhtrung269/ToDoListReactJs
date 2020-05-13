@@ -19,6 +19,9 @@ TODO: API.AI
 
 ExpressJS
 
+## Technical Knowledge
+[Windows Credential Managers](https://stackoverflow.com/questions/47465644/github-remote-permission-denied)
+
 ## 🏃 Getting Started 
 - **Run locally**
   - Go to the folder /server
